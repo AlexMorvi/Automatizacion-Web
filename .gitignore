@@ -1,0 +1,32 @@
+# Compiled Java class files
+*.class
+
+# Maven
+target/
+
+# Chromedriver binaries (plataforma-especificos, no se versionan)
+drivers/
+
+# JetBrains IDE
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# TestNG / Extent Reports output
+test-output/
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+
+# Binarios
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
